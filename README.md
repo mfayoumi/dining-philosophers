@@ -1,7 +1,7 @@
 # Dining Philosophers problem simulation
 ## Eating and Thinking processes are randomly chosen
 
-###Run
+### Run
 Pass the number of Philosophers to set up the table and forks in the Main class
 
 ```java
