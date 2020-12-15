@@ -2,7 +2,7 @@
 ## Eating and Thinking processes are randomly chosen
 
 ### Run
-Pass the number of Philosophers to set up the table and forks in the Main class
+Pass the number of Philosophers to set up the table and forks in the Main class then run it
 
 ```java
 DiningPhilosopher diningPhilosopher = new DiningPhilosopher(100); // Initializing 100 philosophers
